@@ -1,0 +1,9 @@
+Program kompiluje się w pliku main.c. Ważne, aby w w folderze projektu znajdowały się pliki
+tekstowe matrix1.txt, matrix2.txt, results.txt, gdyż są one niezbędne do wczytania danych 
+oraz zapisania wyników.
+Liczby w macierzach w plikach tekstowych matrix1.txt oraz matrix2.txt są zapisywane po przecinkach, bez spacji, typu double, więc mogą być liczby po kropce, np 2.333.
+Macierze w plikach tekstowych można zmieniać ręcznie przed każdym uruchomieniem programu. 
+
+ W pliku header.h znajdują się nagłówki funkcji używanych w projekcie. Został on dołączony do pliku main.c.
+
+Jeśli chodzi o dokumentację, to w folderze o nazwie "dokumentacja" istnieje plik o nazwie index.html, który jest głównym plikiem dokumentacji tego projektu.
